@@ -1,0 +1,29 @@
+
+.active{
+	border-bottom: 2px solid #FE8B1C;
+}
+ 
+.jumbotron{
+	background:url(https://wallpapercave.com/wp/4McNLgA.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family:  'Libre Baskerville', serif;
+}
+
+#main{
+	margin-bottom: 0rem;
+	border-radius: 0px;
+}
+
+#Body{
+	font-family: 'Lato';
+	background-color: #808080;
+}
+
+#navbarSupportedContent{
+	font-family: 'Varela Round', sans-serif;
+}
+
+footer::before{
+	content: "—";
+}
